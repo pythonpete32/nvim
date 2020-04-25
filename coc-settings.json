@@ -1,0 +1,8 @@
+{
+    "git.enableGlobalStatus": true,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "css",
+        "markdown",
+        "javascript"
+    ]
+}
